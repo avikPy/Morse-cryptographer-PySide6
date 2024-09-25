@@ -1,0 +1,19 @@
+QWidget {
+    background-color: #2f2f2f;
+}
+QTextEdit {
+    background-color: #565656;
+    color: #0d0e0d;
+}
+QPushButton {
+    color: #4d7fa3;
+}
+QPushButton:hover {
+    background-color: #5b5b5b;
+}
+QCheckBox {
+    color: #6194b8
+}
+QLabel {
+    color: #63a696
+}
